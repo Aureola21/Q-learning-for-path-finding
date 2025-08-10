@@ -1,4 +1,4 @@
-# Assignment 3 – Q-Learning for Pathfinding
+# Q-Learning for Pathfinding
 
 ## 📄 Summary
 
